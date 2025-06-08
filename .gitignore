@@ -1,6 +1,11 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+db/
+env/
+myenv/
+*.log
+*.sqlite3
 
 # Virtual environment folders
 myenv/
@@ -17,10 +22,4 @@ venv/
 *.log
 *.sqlite3
 
-__pycache__/
-*.py[cod]
-db/
-env/
-myenv/
-*.log
-*.sqlite3
+
