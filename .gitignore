@@ -16,3 +16,11 @@ venv/
 # Logs and databases
 *.log
 *.sqlite3
+
+__pycache__/
+*.py[cod]
+db/
+env/
+myenv/
+*.log
+*.sqlite3
