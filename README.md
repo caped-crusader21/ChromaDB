@@ -1,7 +1,6 @@
 # 📘 ChromaDB
 
 An open-source embedding database built on **Chroma** — enabling fast and scalable semantic search for your applications.
-
 ---
 
 ## ⚙️ Built-In Benefits
